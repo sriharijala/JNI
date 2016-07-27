@@ -1,6 +1,6 @@
 # Creating JNI apps
 
-## To call dll in windows or librairy (lo) on unix/linux that are created in C or C++
+## From Java to call functions in dll in windows or library (lo) on unix/linux that are created in C or C++
 follow the instructions.
 
 ```[java]
