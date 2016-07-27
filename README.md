@@ -1,7 +1,6 @@
 # Creating JNI apps
 
-## From Java to call functions in dll in windows or library (lo) on unix/linux that are created in C or C++
-follow the instructions.
+## From Java to call functions in dll in windows or library (lo) on unix/linux that are created in C or C++ follow the instructions.
 
 ```[java]
 // set the JAVA_HOME and make sure you installed gcc to compile c or c++
